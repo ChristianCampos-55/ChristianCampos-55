@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2> 𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<!--
-**ChristianCampos-55/ChristianCampos-55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src='https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg' width='400"'>
 
-Here are some ideas to get you started:
+[![Twitter Badge](https://img.shields.io/badge/-@David_Persona-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/David__Persona)](https://twitter.com/David__Persona) [![Linkedin Badge](https://img.shields.io/badge/-Christian_David-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christian-david-campos/)](https://www.linkedin.com/in/christian-david-campos/)
+[![Gmail Badge](https://img.shields.io/badge/-gamochris@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gamochris@gmail.com)](mailto:gamochris@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Christian David Campos 😃. I am from Bogotá, Colombia and currently studying programming at Holberton 🏫. I love to explore and learn about new things, and I'm passionate about technology and human behaviour.
+
+## ⚡ Technologies
+Currently doing a lot of stuff in:
+- Front-end development using **HTML, Javascript, CSS, Bootstrap, etc**.
+- Backend development using **Django**.
+- Robust full-stack system design implementation.
+- Desktop application development using **Flutter**.
+- Mobile application development using **Flutter and Kotlin**.
+
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=ChristianCampos-55&hide=["issues"]&show_icons=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ChristianCampos-55.ChristianCampos-55)
